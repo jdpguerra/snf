@@ -1,0 +1,12 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+html body {
+    background-color: #81b5a1;
+}
+
+.navigation h1{
+    font: bold 22px/1.5 'Open Sans', sans-serif;
+    color: #fff;
+    margin: 0 0 20px;
+    text-align: center;
+}
